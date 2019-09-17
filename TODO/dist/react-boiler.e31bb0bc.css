@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(100, 226, 248);
+}
+.formedit div input {
+  padding: 5px;
+}
+.button {
+  background-color: #33ccff;
+  border: solid black 1px;
+}
+.button:hover {
+  color: white;
+  border: solid white 1px;
+  cursor: pointer;
+  background-color: pink;
+}
+.list {
+  min-width: 90px;
+  max-width: 100px;
+  margin-right: 800px;
+  background-color: #33ccff;
+  padding: 10px;
+  /* border: solid #0099cc; */
+  margin-bottom: 5px;
+  list-style: none;
+  cursor: pointer;
+}
+.list:hover {
+  background-color: pink;
+  /* border: solid black; */
+  padding: 10px;
+  border: none;
+  color:white
+}
+
+
+/*# sourceMappingURL=/react-boiler.e31bb0bc.css.map */
